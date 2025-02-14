@@ -12,3 +12,7 @@
 - `git log --oneline --graph --decorate` -> Forma compacta de exibir os commits.
 - `git remote add origin <URL do repositório>` -> Realiza a sincronização do repositório local com o remoto.
 - `git push -u origin main` -> Envia as informações do repositório local para o remoto.
+- `git clone <http do repositório>` -> Clona um repositório do github.
+- `git branch` -> Exibe as branchs que foram criadas.
+- `git branch <nome_da_branch>` -> Cria uma nova branch.
+- `git checkout <nome_da_branch>` -> Altera a branch selecionada
